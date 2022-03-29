@@ -2,7 +2,7 @@
 - 👀 I’m interested in roaming
 - 🌱 I’m currently learning CircleCI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Slack or teams
 
 <!---
 ishan-shahu/ishan-shahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
