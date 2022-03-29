@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishan-shahu, Technical Lead
 - 👀 I’m interested in roaming
 - 🌱 I’m currently learning CircleCI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on In_support teams
 - 📫 How to reach me Slack or teams
 
 <!---
